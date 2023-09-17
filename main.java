@@ -1,1 +1,3 @@
+public class Bot {
+}
 // Hello
